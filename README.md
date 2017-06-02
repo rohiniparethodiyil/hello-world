@@ -1,3 +1,3 @@
 # hello-world
-my first repository
+my first reposit
 This is done as part of internship
